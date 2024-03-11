@@ -30,6 +30,18 @@ Assignment Tasks
 
     Observations and Conclusions: Provide insights on the classifiers' behavior with respect to the number of estimators and identify the optimal estimator values within the given range.
     With the output you've provided in the screenshot, we can see the accuracy and AUC for four different classifiers: Random Forest, AdaBoost, Gradient Boost, and XGBoost. Based on the provided table, here are some observations and conclusions about the behavior of the classifiers concerning the number of estimators and the possible optimal values within the tested range:
+
+Setup and Installation
+
+        Python version required.
+        Libraries to install (pandas, sklearn, xgboost, matplotlib, numpy).
+File Structure
+
+        Data loading and preprocessing.
+        Model training and evaluation for Decision Tree, Random Forest, AdaBoost, Gradient Boost, and XGBClassifier.
+        Hyperparameter tuning for ensemble methods.
+        Visualization of model performance.
+
 Observations:
 
     Random Forest:
