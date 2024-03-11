@@ -1,4 +1,5 @@
 CA04 - Ensemble Models
+Dino Kao, Kali Recker, Kendall Prager
 Overview
 
 This assignment focuses on building and evaluating ensemble machine learning models, specifically Random Forest, AdaBoost, Gradient Boost, and XGBoost classifiers. The goal is to understand the impact of the n_estimators hyperparameter on model performance, specifically in terms of accuracy and AUC (Area Under the ROC Curve).
